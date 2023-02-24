@@ -8,6 +8,8 @@
 *.xls
 *.docx
 *.doc
+*.out
 *.pptx
 *.svd
 **/_build
+local
